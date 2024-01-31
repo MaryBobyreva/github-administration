@@ -15,7 +15,7 @@ https://docs.github.com/ru/authentication/connecting-to-github-with-ssh/generati
 - скопировать его через SSH с помощью команды:
 git clone + ссылка на репозиторий
 
-##Основные команды git
+## Основные команды git
 
 git add . - индексируем все измененные файлы
 git commit -m "Описание" - описание коммита 
